@@ -1,1 +1,1 @@
-A basic HTML based website for displaying different recipes
+A basic HTML based webpage for displaying different recipes

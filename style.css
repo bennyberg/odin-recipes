@@ -1,0 +1,10 @@
+body {
+  background: #eee;
+  font-family: sans-serif;
+}
+
+.desc-image{
+  border-radius: 8px;
+  width: 200px;
+  height: auto;
+}
